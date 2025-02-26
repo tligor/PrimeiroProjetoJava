@@ -1,0 +1,6 @@
+A programação procedural é como escrever uma lista de passos que devem ser seguidos em ordem. Cada passo é uma ação, como "quebrar os ovos", "misturar a farinha" ou "assar no forno". 
+Ja em programação orientada a objetos, seguindo a mesma linha de raciocinio, imagine que você não está só fazendo um bolo, mas gerenciando uma cozinha inteira. Em vez de pensar em passos, você pensa em objetos, como "Ovo", "Farinha", "Forno", etc. Cada objeto tem suas próprias características (chamadas de atributos) e ações que ele pode fazer (chamadas de métodos).
+
+Para resumir:
+Procedural: Foca em passos e funções. É como seguir uma lista de tarefas.
+Orientada a Objetos: Foca em objetos e suas ações.
