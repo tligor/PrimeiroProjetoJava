@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1128d14e-72d5-499a-a51d-cec0221a09b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CadastroNomes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroNomesSexo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CadastroNomes.java" beforeDir="false" afterPath="$PROJECT_DIR$/CadastroNomes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CadastroNomesSexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CadastroNomesSexo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2uT4IXkwmQSOFQCV0aEpgegYW21" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,9 +42,9 @@
     "Application.br.com.igorsantana.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ExercicioModulo9",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/dev/PrimeiroProjetoJava/tarefas_array_map",
+    "last_opened_file_path": "/home/dev/PrimeiroProjetoJava/tarefas_colecoes",
     "onboarding.tips.debug.path": "/home/dev/PrimeiroProjetoJava/tarefas_array_map/br.com.igorsantana/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",

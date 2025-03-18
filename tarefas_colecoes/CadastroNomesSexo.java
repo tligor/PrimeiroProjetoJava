@@ -19,7 +19,7 @@ public class CadastroNomesSexo {
             // divide utilizando o split
             String[] partes = entrada.split(" - ");
             if (partes.length == 2) { // Verifica se tem nome e sexo
-                String nome = partes[0].trim(); // remove espaços
+                String nome = partes[0].trim(); // remove os espaços
                 String sexo = partes[1].trim().toUpperCase(); // remove espaços e converte para maiúsculas
 
                 // adiciona o nome ao grupo F ou M

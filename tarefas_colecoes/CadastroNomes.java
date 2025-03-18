@@ -36,7 +36,7 @@ public class CadastroNomes {
         Collections.sort(nomesAlfabetica);
 
         // Exibe os nomes ordenados
-        System.out.println("\nNomes digitados (em ordem alfabética):");
+        System.out.println("Nomes digitados (em ordem alfabética):");
         for (String nome : nomesAlfabetica) {
             System.out.println(nome);
         }
