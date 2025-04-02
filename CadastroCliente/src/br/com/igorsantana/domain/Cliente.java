@@ -1,23 +1,21 @@
-package br.com.igorsantana.domain;
-
 import java.util.Objects;
 
 public class Cliente {
 
     private String nome;
     private Long cpf;
-    private String tel;
+    private Long tel;
     private String end;
     private Integer numero;
     private String cidade;
     private String estado;
 
-    public Cliente(String nome, Long cpf, String tel, String end, Integer numero, String cidade, String estado) {
+    public Cliente(String nome, Long cpf, Long tel, String end, Integer numero, String cidade, String estado) {
         this.nome = nome;
-        this.cpf = cpf;
-        this.tel = tel;
+        this.cpf = Long.valueOf(cpf.trim());
+        this.tel = Long.valueOf(tel.trim());
         this.end = end;
-        this.numero = numero;
+        this.numero = Integer.valueOf(num.trim());
         this.cidade = cidade;
         this.estado = estado;
     }
@@ -30,9 +28,9 @@ public class Cliente {
 
     public void setCpf(Long cpf) {this.cpf = cpf;}
 
-    public String getTel() {return tel;}
+    public Long getTel() {return tel;}
 
-    public void setTel(String tel) {this.tel = tel;}
+    public void setTel(Long tel) {this.tel = tel;}
 
     public String getEnd() {return end;}
 
